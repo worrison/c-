@@ -1,0 +1,11 @@
+C:\Users\formacion.GTT.000\Desktop\c#\piramide\obj\Debug\netcoreapp2.2\piramide.csprojAssemblyReference.cache
+C:\Users\formacion.GTT.000\Desktop\c#\piramide\obj\Debug\netcoreapp2.2\piramide.csproj.CoreCompileInputs.cache
+C:\Users\formacion.GTT.000\Desktop\c#\piramide\obj\Debug\netcoreapp2.2\piramide.AssemblyInfoInputs.cache
+C:\Users\formacion.GTT.000\Desktop\c#\piramide\obj\Debug\netcoreapp2.2\piramide.AssemblyInfo.cs
+C:\Users\formacion.GTT.000\Desktop\c#\piramide\bin\Debug\netcoreapp2.2\piramide.deps.json
+C:\Users\formacion.GTT.000\Desktop\c#\piramide\bin\Debug\netcoreapp2.2\piramide.runtimeconfig.json
+C:\Users\formacion.GTT.000\Desktop\c#\piramide\bin\Debug\netcoreapp2.2\piramide.runtimeconfig.dev.json
+C:\Users\formacion.GTT.000\Desktop\c#\piramide\bin\Debug\netcoreapp2.2\piramide.dll
+C:\Users\formacion.GTT.000\Desktop\c#\piramide\bin\Debug\netcoreapp2.2\piramide.pdb
+C:\Users\formacion.GTT.000\Desktop\c#\piramide\obj\Debug\netcoreapp2.2\piramide.dll
+C:\Users\formacion.GTT.000\Desktop\c#\piramide\obj\Debug\netcoreapp2.2\piramide.pdb

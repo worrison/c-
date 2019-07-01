@@ -1,0 +1,4 @@
+C:\Users\formacion.GTT.000\Desktop\c#\numerosRoanos\obj\Debug\netcoreapp2.2\numerosRoanos.csprojAssemblyReference.cache
+C:\Users\formacion.GTT.000\Desktop\c#\numerosRoanos\obj\Debug\netcoreapp2.2\numerosRoanos.csproj.CoreCompileInputs.cache
+C:\Users\formacion.GTT.000\Desktop\c#\numerosRoanos\obj\Debug\netcoreapp2.2\numerosRoanos.AssemblyInfoInputs.cache
+C:\Users\formacion.GTT.000\Desktop\c#\numerosRoanos\obj\Debug\netcoreapp2.2\numerosRoanos.AssemblyInfo.cs

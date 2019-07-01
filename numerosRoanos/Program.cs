@@ -70,10 +70,15 @@ namespace numerosRoanos
         static void Main(string[] args)
         {
             int numeroAConvertir = Int32.Parse(args[0]);
-            // string nuemroRomano = convertToRomanos(numeroAConvertir);
-            int[] retornaNumeros=getMillarCentenaDecena(numeroAConvertir);
-            string numeroRomano=convertToRomanos(retornaNumeros);
-            Console.WriteLine("El numero "+" " + numeroAConvertir+" "+"pasado a numero romanos es: \n"+numeroRomano);
+            if ( numeroAConvertir <= 3999)
+            {
+                int[] retornaNumeros=getMillarCentenaDecena(numeroAConvertir);
+                string numeroRomano=convertToRomanos(retornaNumeros);
+                Console.WriteLine("El numero "+" " + numeroAConvertir+" "+"pasado a numero romanos es: \n"+numeroRomano);
+            }
+            else{
+                Console.WriteLine("El número introducido es mayor de 3999 ha de introducir uno inferior o igual a este valor:");
+            }
         }
     }
 }

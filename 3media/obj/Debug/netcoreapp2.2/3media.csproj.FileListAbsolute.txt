@@ -1,0 +1,11 @@
+C:\Users\formacion.GTT.000\Desktop\c#\3media\obj\Debug\netcoreapp2.2\3media.csprojAssemblyReference.cache
+C:\Users\formacion.GTT.000\Desktop\c#\3media\obj\Debug\netcoreapp2.2\3media.csproj.CoreCompileInputs.cache
+C:\Users\formacion.GTT.000\Desktop\c#\3media\obj\Debug\netcoreapp2.2\3media.AssemblyInfoInputs.cache
+C:\Users\formacion.GTT.000\Desktop\c#\3media\obj\Debug\netcoreapp2.2\3media.AssemblyInfo.cs
+C:\Users\formacion.GTT.000\Desktop\c#\3media\bin\Debug\netcoreapp2.2\3media.deps.json
+C:\Users\formacion.GTT.000\Desktop\c#\3media\bin\Debug\netcoreapp2.2\3media.runtimeconfig.json
+C:\Users\formacion.GTT.000\Desktop\c#\3media\bin\Debug\netcoreapp2.2\3media.runtimeconfig.dev.json
+C:\Users\formacion.GTT.000\Desktop\c#\3media\bin\Debug\netcoreapp2.2\3media.dll
+C:\Users\formacion.GTT.000\Desktop\c#\3media\bin\Debug\netcoreapp2.2\3media.pdb
+C:\Users\formacion.GTT.000\Desktop\c#\3media\obj\Debug\netcoreapp2.2\3media.dll
+C:\Users\formacion.GTT.000\Desktop\c#\3media\obj\Debug\netcoreapp2.2\3media.pdb

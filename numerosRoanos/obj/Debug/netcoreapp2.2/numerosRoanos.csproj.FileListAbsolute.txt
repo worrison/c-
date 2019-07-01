@@ -2,3 +2,14 @@ C:\Users\formacion.GTT.000\Desktop\c#\numerosRoanos\obj\Debug\netcoreapp2.2\nume
 C:\Users\formacion.GTT.000\Desktop\c#\numerosRoanos\obj\Debug\netcoreapp2.2\numerosRoanos.csproj.CoreCompileInputs.cache
 C:\Users\formacion.GTT.000\Desktop\c#\numerosRoanos\obj\Debug\netcoreapp2.2\numerosRoanos.AssemblyInfoInputs.cache
 C:\Users\formacion.GTT.000\Desktop\c#\numerosRoanos\obj\Debug\netcoreapp2.2\numerosRoanos.AssemblyInfo.cs
+D:\BOOTCAMP\c#\c-\numerosRoanos\obj\Debug\netcoreapp2.2\numerosRoanos.csprojAssemblyReference.cache
+D:\BOOTCAMP\c#\c-\numerosRoanos\obj\Debug\netcoreapp2.2\numerosRoanos.csproj.CoreCompileInputs.cache
+D:\BOOTCAMP\c#\c-\numerosRoanos\obj\Debug\netcoreapp2.2\numerosRoanos.AssemblyInfoInputs.cache
+D:\BOOTCAMP\c#\c-\numerosRoanos\obj\Debug\netcoreapp2.2\numerosRoanos.AssemblyInfo.cs
+D:\BOOTCAMP\c#\c-\numerosRoanos\bin\Debug\netcoreapp2.2\numerosRoanos.deps.json
+D:\BOOTCAMP\c#\c-\numerosRoanos\bin\Debug\netcoreapp2.2\numerosRoanos.runtimeconfig.json
+D:\BOOTCAMP\c#\c-\numerosRoanos\bin\Debug\netcoreapp2.2\numerosRoanos.runtimeconfig.dev.json
+D:\BOOTCAMP\c#\c-\numerosRoanos\bin\Debug\netcoreapp2.2\numerosRoanos.dll
+D:\BOOTCAMP\c#\c-\numerosRoanos\bin\Debug\netcoreapp2.2\numerosRoanos.pdb
+D:\BOOTCAMP\c#\c-\numerosRoanos\obj\Debug\netcoreapp2.2\numerosRoanos.dll
+D:\BOOTCAMP\c#\c-\numerosRoanos\obj\Debug\netcoreapp2.2\numerosRoanos.pdb

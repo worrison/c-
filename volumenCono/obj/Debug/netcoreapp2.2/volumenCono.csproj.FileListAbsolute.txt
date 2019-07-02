@@ -1,0 +1,11 @@
+C:\Users\formacion.GTT.000\Desktop\c#\volumenCono\obj\Debug\netcoreapp2.2\volumenCono.csprojAssemblyReference.cache
+C:\Users\formacion.GTT.000\Desktop\c#\volumenCono\obj\Debug\netcoreapp2.2\volumenCono.csproj.CoreCompileInputs.cache
+C:\Users\formacion.GTT.000\Desktop\c#\volumenCono\obj\Debug\netcoreapp2.2\volumenCono.AssemblyInfoInputs.cache
+C:\Users\formacion.GTT.000\Desktop\c#\volumenCono\obj\Debug\netcoreapp2.2\volumenCono.AssemblyInfo.cs
+C:\Users\formacion.GTT.000\Desktop\c#\volumenCono\bin\Debug\netcoreapp2.2\volumenCono.deps.json
+C:\Users\formacion.GTT.000\Desktop\c#\volumenCono\bin\Debug\netcoreapp2.2\volumenCono.runtimeconfig.json
+C:\Users\formacion.GTT.000\Desktop\c#\volumenCono\bin\Debug\netcoreapp2.2\volumenCono.runtimeconfig.dev.json
+C:\Users\formacion.GTT.000\Desktop\c#\volumenCono\bin\Debug\netcoreapp2.2\volumenCono.dll
+C:\Users\formacion.GTT.000\Desktop\c#\volumenCono\bin\Debug\netcoreapp2.2\volumenCono.pdb
+C:\Users\formacion.GTT.000\Desktop\c#\volumenCono\obj\Debug\netcoreapp2.2\volumenCono.dll
+C:\Users\formacion.GTT.000\Desktop\c#\volumenCono\obj\Debug\netcoreapp2.2\volumenCono.pdb

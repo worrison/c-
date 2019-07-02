@@ -1,0 +1,11 @@
+d:\BOOTCAMP\c#\c-\fibonacci\bin\Debug\netcoreapp2.2\fibonacci.deps.json
+d:\BOOTCAMP\c#\c-\fibonacci\bin\Debug\netcoreapp2.2\fibonacci.runtimeconfig.json
+d:\BOOTCAMP\c#\c-\fibonacci\bin\Debug\netcoreapp2.2\fibonacci.runtimeconfig.dev.json
+d:\BOOTCAMP\c#\c-\fibonacci\bin\Debug\netcoreapp2.2\fibonacci.dll
+d:\BOOTCAMP\c#\c-\fibonacci\bin\Debug\netcoreapp2.2\fibonacci.pdb
+d:\BOOTCAMP\c#\c-\fibonacci\obj\Debug\netcoreapp2.2\fibonacci.csprojAssemblyReference.cache
+d:\BOOTCAMP\c#\c-\fibonacci\obj\Debug\netcoreapp2.2\fibonacci.csproj.CoreCompileInputs.cache
+d:\BOOTCAMP\c#\c-\fibonacci\obj\Debug\netcoreapp2.2\fibonacci.AssemblyInfoInputs.cache
+d:\BOOTCAMP\c#\c-\fibonacci\obj\Debug\netcoreapp2.2\fibonacci.AssemblyInfo.cs
+d:\BOOTCAMP\c#\c-\fibonacci\obj\Debug\netcoreapp2.2\fibonacci.dll
+d:\BOOTCAMP\c#\c-\fibonacci\obj\Debug\netcoreapp2.2\fibonacci.pdb

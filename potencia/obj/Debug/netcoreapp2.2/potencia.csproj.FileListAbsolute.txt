@@ -1,0 +1,11 @@
+d:\BOOTCAMP\c#\c-\potencia\obj\Debug\netcoreapp2.2\potencia.csprojAssemblyReference.cache
+d:\BOOTCAMP\c#\c-\potencia\obj\Debug\netcoreapp2.2\potencia.csproj.CoreCompileInputs.cache
+d:\BOOTCAMP\c#\c-\potencia\obj\Debug\netcoreapp2.2\potencia.AssemblyInfoInputs.cache
+d:\BOOTCAMP\c#\c-\potencia\obj\Debug\netcoreapp2.2\potencia.AssemblyInfo.cs
+d:\BOOTCAMP\c#\c-\potencia\bin\Debug\netcoreapp2.2\potencia.deps.json
+d:\BOOTCAMP\c#\c-\potencia\bin\Debug\netcoreapp2.2\potencia.runtimeconfig.json
+d:\BOOTCAMP\c#\c-\potencia\bin\Debug\netcoreapp2.2\potencia.runtimeconfig.dev.json
+d:\BOOTCAMP\c#\c-\potencia\bin\Debug\netcoreapp2.2\potencia.dll
+d:\BOOTCAMP\c#\c-\potencia\bin\Debug\netcoreapp2.2\potencia.pdb
+d:\BOOTCAMP\c#\c-\potencia\obj\Debug\netcoreapp2.2\potencia.dll
+d:\BOOTCAMP\c#\c-\potencia\obj\Debug\netcoreapp2.2\potencia.pdb

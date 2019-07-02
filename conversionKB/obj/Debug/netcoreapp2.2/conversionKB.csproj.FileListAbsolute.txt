@@ -1,0 +1,11 @@
+C:\Users\formacion.GTT.000\Desktop\c#\conversionKB\bin\Debug\netcoreapp2.2\conversionKB.deps.json
+C:\Users\formacion.GTT.000\Desktop\c#\conversionKB\bin\Debug\netcoreapp2.2\conversionKB.runtimeconfig.json
+C:\Users\formacion.GTT.000\Desktop\c#\conversionKB\bin\Debug\netcoreapp2.2\conversionKB.runtimeconfig.dev.json
+C:\Users\formacion.GTT.000\Desktop\c#\conversionKB\bin\Debug\netcoreapp2.2\conversionKB.dll
+C:\Users\formacion.GTT.000\Desktop\c#\conversionKB\bin\Debug\netcoreapp2.2\conversionKB.pdb
+C:\Users\formacion.GTT.000\Desktop\c#\conversionKB\obj\Debug\netcoreapp2.2\conversionKB.csprojAssemblyReference.cache
+C:\Users\formacion.GTT.000\Desktop\c#\conversionKB\obj\Debug\netcoreapp2.2\conversionKB.csproj.CoreCompileInputs.cache
+C:\Users\formacion.GTT.000\Desktop\c#\conversionKB\obj\Debug\netcoreapp2.2\conversionKB.AssemblyInfoInputs.cache
+C:\Users\formacion.GTT.000\Desktop\c#\conversionKB\obj\Debug\netcoreapp2.2\conversionKB.AssemblyInfo.cs
+C:\Users\formacion.GTT.000\Desktop\c#\conversionKB\obj\Debug\netcoreapp2.2\conversionKB.dll
+C:\Users\formacion.GTT.000\Desktop\c#\conversionKB\obj\Debug\netcoreapp2.2\conversionKB.pdb

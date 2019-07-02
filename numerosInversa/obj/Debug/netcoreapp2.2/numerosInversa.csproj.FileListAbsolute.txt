@@ -1,0 +1,11 @@
+C:\Users\formacion.GTT.000\Desktop\c#\numerosInversa\obj\Debug\netcoreapp2.2\numerosInversa.csprojAssemblyReference.cache
+C:\Users\formacion.GTT.000\Desktop\c#\numerosInversa\obj\Debug\netcoreapp2.2\numerosInversa.csproj.CoreCompileInputs.cache
+C:\Users\formacion.GTT.000\Desktop\c#\numerosInversa\obj\Debug\netcoreapp2.2\numerosInversa.AssemblyInfoInputs.cache
+C:\Users\formacion.GTT.000\Desktop\c#\numerosInversa\obj\Debug\netcoreapp2.2\numerosInversa.AssemblyInfo.cs
+C:\Users\formacion.GTT.000\Desktop\c#\numerosInversa\bin\Debug\netcoreapp2.2\numerosInversa.deps.json
+C:\Users\formacion.GTT.000\Desktop\c#\numerosInversa\bin\Debug\netcoreapp2.2\numerosInversa.runtimeconfig.json
+C:\Users\formacion.GTT.000\Desktop\c#\numerosInversa\bin\Debug\netcoreapp2.2\numerosInversa.runtimeconfig.dev.json
+C:\Users\formacion.GTT.000\Desktop\c#\numerosInversa\bin\Debug\netcoreapp2.2\numerosInversa.dll
+C:\Users\formacion.GTT.000\Desktop\c#\numerosInversa\bin\Debug\netcoreapp2.2\numerosInversa.pdb
+C:\Users\formacion.GTT.000\Desktop\c#\numerosInversa\obj\Debug\netcoreapp2.2\numerosInversa.dll
+C:\Users\formacion.GTT.000\Desktop\c#\numerosInversa\obj\Debug\netcoreapp2.2\numerosInversa.pdb

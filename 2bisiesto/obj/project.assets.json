@@ -686,23 +686,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\formacion.GTT.000\\.nuget\\packages\\": {},
+    "C:\\Users\\victor\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\formacion.GTT.000\\Desktop\\c#\\2bisiesto\\2bisiesto.csproj",
+      "projectUniqueName": "D:\\BOOTCAMP\\c#\\c-\\2bisiesto\\2bisiesto.csproj",
       "projectName": "2bisiesto",
-      "projectPath": "C:\\Users\\formacion.GTT.000\\Desktop\\c#\\2bisiesto\\2bisiesto.csproj",
-      "packagesPath": "C:\\Users\\formacion.GTT.000\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\formacion.GTT.000\\Desktop\\c#\\2bisiesto\\obj\\",
+      "projectPath": "D:\\BOOTCAMP\\c#\\c-\\2bisiesto\\2bisiesto.csproj",
+      "packagesPath": "C:\\Users\\victor\\.nuget\\packages\\",
+      "outputPath": "D:\\BOOTCAMP\\c#\\c-\\2bisiesto\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\formacion.GTT.000\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\victor\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"

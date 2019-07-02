@@ -686,23 +686,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\formacion.GTT.000\\.nuget\\packages\\": {},
+    "C:\\Users\\victor\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\formacion.GTT.000\\Desktop\\c#\\piramide\\piramide.csproj",
+      "projectUniqueName": "d:\\BOOTCAMP\\c#\\c-\\piramide\\piramide.csproj",
       "projectName": "piramide",
-      "projectPath": "C:\\Users\\formacion.GTT.000\\Desktop\\c#\\piramide\\piramide.csproj",
-      "packagesPath": "C:\\Users\\formacion.GTT.000\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\formacion.GTT.000\\Desktop\\c#\\piramide\\obj\\",
+      "projectPath": "d:\\BOOTCAMP\\c#\\c-\\piramide\\piramide.csproj",
+      "packagesPath": "C:\\Users\\victor\\.nuget\\packages\\",
+      "outputPath": "d:\\BOOTCAMP\\c#\\c-\\piramide\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\formacion.GTT.000\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\victor\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"

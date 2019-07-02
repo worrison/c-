@@ -9,3 +9,14 @@ C:\Users\formacion.GTT.000\Desktop\c#\2bisiesto\bin\Debug\netcoreapp2.2\2bisiest
 C:\Users\formacion.GTT.000\Desktop\c#\2bisiesto\bin\Debug\netcoreapp2.2\2bisiesto.pdb
 C:\Users\formacion.GTT.000\Desktop\c#\2bisiesto\obj\Debug\netcoreapp2.2\2bisiesto.dll
 C:\Users\formacion.GTT.000\Desktop\c#\2bisiesto\obj\Debug\netcoreapp2.2\2bisiesto.pdb
+D:\BOOTCAMP\c#\c-\2bisiesto\bin\Debug\netcoreapp2.2\2bisiesto.deps.json
+D:\BOOTCAMP\c#\c-\2bisiesto\bin\Debug\netcoreapp2.2\2bisiesto.runtimeconfig.json
+D:\BOOTCAMP\c#\c-\2bisiesto\bin\Debug\netcoreapp2.2\2bisiesto.runtimeconfig.dev.json
+D:\BOOTCAMP\c#\c-\2bisiesto\bin\Debug\netcoreapp2.2\2bisiesto.dll
+D:\BOOTCAMP\c#\c-\2bisiesto\bin\Debug\netcoreapp2.2\2bisiesto.pdb
+D:\BOOTCAMP\c#\c-\2bisiesto\obj\Debug\netcoreapp2.2\2bisiesto.csprojAssemblyReference.cache
+D:\BOOTCAMP\c#\c-\2bisiesto\obj\Debug\netcoreapp2.2\2bisiesto.csproj.CoreCompileInputs.cache
+D:\BOOTCAMP\c#\c-\2bisiesto\obj\Debug\netcoreapp2.2\2bisiesto.AssemblyInfoInputs.cache
+D:\BOOTCAMP\c#\c-\2bisiesto\obj\Debug\netcoreapp2.2\2bisiesto.AssemblyInfo.cs
+D:\BOOTCAMP\c#\c-\2bisiesto\obj\Debug\netcoreapp2.2\2bisiesto.dll
+D:\BOOTCAMP\c#\c-\2bisiesto\obj\Debug\netcoreapp2.2\2bisiesto.pdb

@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\BOOTCAMP\\c#\\c-\\3media\\3media.csproj",
-      "projectName": "3media",
-      "projectPath": "d:\\BOOTCAMP\\c#\\c-\\3media\\3media.csproj",
+      "projectUniqueName": "d:\\BOOTCAMP\\c#\\mediaNumeros\\mediaNumeros.csproj",
+      "projectName": "mediaNumeros",
+      "projectPath": "d:\\BOOTCAMP\\c#\\mediaNumeros\\mediaNumeros.csproj",
       "packagesPath": "C:\\Users\\victor\\.nuget\\packages\\",
-      "outputPath": "d:\\BOOTCAMP\\c#\\c-\\3media\\obj\\",
+      "outputPath": "d:\\BOOTCAMP\\c#\\mediaNumeros\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

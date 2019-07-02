@@ -1,0 +1,11 @@
+d:\BOOTCAMP\c#\mediaNumeros\bin\Debug\netcoreapp2.2\mediaNumeros.deps.json
+d:\BOOTCAMP\c#\mediaNumeros\bin\Debug\netcoreapp2.2\mediaNumeros.runtimeconfig.json
+d:\BOOTCAMP\c#\mediaNumeros\bin\Debug\netcoreapp2.2\mediaNumeros.runtimeconfig.dev.json
+d:\BOOTCAMP\c#\mediaNumeros\bin\Debug\netcoreapp2.2\mediaNumeros.dll
+d:\BOOTCAMP\c#\mediaNumeros\bin\Debug\netcoreapp2.2\mediaNumeros.pdb
+d:\BOOTCAMP\c#\mediaNumeros\obj\Debug\netcoreapp2.2\mediaNumeros.csprojAssemblyReference.cache
+d:\BOOTCAMP\c#\mediaNumeros\obj\Debug\netcoreapp2.2\mediaNumeros.csproj.CoreCompileInputs.cache
+d:\BOOTCAMP\c#\mediaNumeros\obj\Debug\netcoreapp2.2\mediaNumeros.AssemblyInfoInputs.cache
+d:\BOOTCAMP\c#\mediaNumeros\obj\Debug\netcoreapp2.2\mediaNumeros.AssemblyInfo.cs
+d:\BOOTCAMP\c#\mediaNumeros\obj\Debug\netcoreapp2.2\mediaNumeros.dll
+d:\BOOTCAMP\c#\mediaNumeros\obj\Debug\netcoreapp2.2\mediaNumeros.pdb

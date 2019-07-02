@@ -1,0 +1,11 @@
+d:\BOOTCAMP\c#\c-\positivosnegativos\obj\Debug\netcoreapp2.2\positivosnegativos.csprojAssemblyReference.cache
+d:\BOOTCAMP\c#\c-\positivosnegativos\obj\Debug\netcoreapp2.2\positivosnegativos.csproj.CoreCompileInputs.cache
+d:\BOOTCAMP\c#\c-\positivosnegativos\obj\Debug\netcoreapp2.2\positivosnegativos.AssemblyInfoInputs.cache
+d:\BOOTCAMP\c#\c-\positivosnegativos\obj\Debug\netcoreapp2.2\positivosnegativos.AssemblyInfo.cs
+d:\BOOTCAMP\c#\c-\positivosnegativos\bin\Debug\netcoreapp2.2\positivosnegativos.deps.json
+d:\BOOTCAMP\c#\c-\positivosnegativos\bin\Debug\netcoreapp2.2\positivosnegativos.runtimeconfig.json
+d:\BOOTCAMP\c#\c-\positivosnegativos\bin\Debug\netcoreapp2.2\positivosnegativos.runtimeconfig.dev.json
+d:\BOOTCAMP\c#\c-\positivosnegativos\bin\Debug\netcoreapp2.2\positivosnegativos.dll
+d:\BOOTCAMP\c#\c-\positivosnegativos\bin\Debug\netcoreapp2.2\positivosnegativos.pdb
+d:\BOOTCAMP\c#\c-\positivosnegativos\obj\Debug\netcoreapp2.2\positivosnegativos.dll
+d:\BOOTCAMP\c#\c-\positivosnegativos\obj\Debug\netcoreapp2.2\positivosnegativos.pdb

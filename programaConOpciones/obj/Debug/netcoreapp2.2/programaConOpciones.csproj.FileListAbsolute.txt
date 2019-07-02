@@ -1,0 +1,11 @@
+C:\Users\formacion.GTT.000\Desktop\c#\programaConOpciones\obj\Debug\netcoreapp2.2\programaConOpciones.csprojAssemblyReference.cache
+C:\Users\formacion.GTT.000\Desktop\c#\programaConOpciones\obj\Debug\netcoreapp2.2\programaConOpciones.csproj.CoreCompileInputs.cache
+C:\Users\formacion.GTT.000\Desktop\c#\programaConOpciones\obj\Debug\netcoreapp2.2\programaConOpciones.AssemblyInfoInputs.cache
+C:\Users\formacion.GTT.000\Desktop\c#\programaConOpciones\obj\Debug\netcoreapp2.2\programaConOpciones.AssemblyInfo.cs
+C:\Users\formacion.GTT.000\Desktop\c#\programaConOpciones\bin\Debug\netcoreapp2.2\programaConOpciones.deps.json
+C:\Users\formacion.GTT.000\Desktop\c#\programaConOpciones\bin\Debug\netcoreapp2.2\programaConOpciones.runtimeconfig.json
+C:\Users\formacion.GTT.000\Desktop\c#\programaConOpciones\bin\Debug\netcoreapp2.2\programaConOpciones.runtimeconfig.dev.json
+C:\Users\formacion.GTT.000\Desktop\c#\programaConOpciones\bin\Debug\netcoreapp2.2\programaConOpciones.dll
+C:\Users\formacion.GTT.000\Desktop\c#\programaConOpciones\bin\Debug\netcoreapp2.2\programaConOpciones.pdb
+C:\Users\formacion.GTT.000\Desktop\c#\programaConOpciones\obj\Debug\netcoreapp2.2\programaConOpciones.dll
+C:\Users\formacion.GTT.000\Desktop\c#\programaConOpciones\obj\Debug\netcoreapp2.2\programaConOpciones.pdb

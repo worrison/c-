@@ -1,0 +1,11 @@
+d:\BOOTCAMP\c#\c-\quiniela\obj\Debug\netcoreapp2.2\quiniela.csprojAssemblyReference.cache
+d:\BOOTCAMP\c#\c-\quiniela\obj\Debug\netcoreapp2.2\quiniela.csproj.CoreCompileInputs.cache
+d:\BOOTCAMP\c#\c-\quiniela\obj\Debug\netcoreapp2.2\quiniela.AssemblyInfoInputs.cache
+d:\BOOTCAMP\c#\c-\quiniela\obj\Debug\netcoreapp2.2\quiniela.AssemblyInfo.cs
+d:\BOOTCAMP\c#\c-\quiniela\bin\Debug\netcoreapp2.2\quiniela.deps.json
+d:\BOOTCAMP\c#\c-\quiniela\bin\Debug\netcoreapp2.2\quiniela.runtimeconfig.json
+d:\BOOTCAMP\c#\c-\quiniela\bin\Debug\netcoreapp2.2\quiniela.runtimeconfig.dev.json
+d:\BOOTCAMP\c#\c-\quiniela\bin\Debug\netcoreapp2.2\quiniela.dll
+d:\BOOTCAMP\c#\c-\quiniela\bin\Debug\netcoreapp2.2\quiniela.pdb
+d:\BOOTCAMP\c#\c-\quiniela\obj\Debug\netcoreapp2.2\quiniela.dll
+d:\BOOTCAMP\c#\c-\quiniela\obj\Debug\netcoreapp2.2\quiniela.pdb

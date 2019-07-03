@@ -8,9 +8,9 @@ namespace quiniela
         {
             Random rnd = new Random();
             int apuestas=15;
-            int[] quiniela1= new int[15];
-            int[] quiniela2= new int[15];
-            int[] quiniela3= new int[15];
+            int[] quiniela1= new int[apuestas];
+            int[] quiniela2= new int[apuestas];
+            int[] quiniela3= new int[apuestas];
             int randomNumber;
             for (int i = 0; i < 15; i++)
             {

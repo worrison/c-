@@ -1,0 +1,4 @@
+d:\BOOTCAMP\c#\c-\ticketCompra\obj\Debug\netcoreapp2.2\ticketCompra.csprojAssemblyReference.cache
+d:\BOOTCAMP\c#\c-\ticketCompra\obj\Debug\netcoreapp2.2\ticketCompra.csproj.CoreCompileInputs.cache
+d:\BOOTCAMP\c#\c-\ticketCompra\obj\Debug\netcoreapp2.2\ticketCompra.AssemblyInfoInputs.cache
+d:\BOOTCAMP\c#\c-\ticketCompra\obj\Debug\netcoreapp2.2\ticketCompra.AssemblyInfo.cs

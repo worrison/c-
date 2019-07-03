@@ -13,7 +13,13 @@ namespace positivosnegativos
                 num=Int32.Parse(numero);
                 if(num != 0)
                 {
-                    num>0 ? positivos++ : negativos++;
+                    if(num>0)
+                    {
+                        positivos++;
+                    }else
+                    {
+                        negativos++;
+                    }  
                 }
             }
            

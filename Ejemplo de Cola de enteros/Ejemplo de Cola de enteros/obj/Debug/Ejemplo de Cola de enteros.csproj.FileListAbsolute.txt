@@ -1,0 +1,7 @@
+C:\Users\victor\source\repos\Ejemplo de Cola de enteros\Ejemplo de Cola de enteros\bin\Debug\Ejemplo de Cola de enteros.exe.config
+C:\Users\victor\source\repos\Ejemplo de Cola de enteros\Ejemplo de Cola de enteros\bin\Debug\Ejemplo de Cola de enteros.exe
+C:\Users\victor\source\repos\Ejemplo de Cola de enteros\Ejemplo de Cola de enteros\bin\Debug\Ejemplo de Cola de enteros.pdb
+C:\Users\victor\source\repos\Ejemplo de Cola de enteros\Ejemplo de Cola de enteros\obj\Debug\Ejemplo de Cola de enteros.csprojAssemblyReference.cache
+C:\Users\victor\source\repos\Ejemplo de Cola de enteros\Ejemplo de Cola de enteros\obj\Debug\Ejemplo de Cola de enteros.csproj.CoreCompileInputs.cache
+C:\Users\victor\source\repos\Ejemplo de Cola de enteros\Ejemplo de Cola de enteros\obj\Debug\Ejemplo de Cola de enteros.exe
+C:\Users\victor\source\repos\Ejemplo de Cola de enteros\Ejemplo de Cola de enteros\obj\Debug\Ejemplo de Cola de enteros.pdb
